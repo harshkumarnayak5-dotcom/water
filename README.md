@@ -259,6 +259,141 @@ hi
       } else {
         resultDiv.innerHTML = `<h2>No conservation ideas found for ${location}.</h2>`;
       }
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geographic Conservation and Management Ideas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        main {
+            padding: 20px;
+        }
+        .location-select {
+            margin-bottom: 20px;
+        }
+        .location-info {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 1000px;
+            margin: auto;
+            display: none;
+        }
+        select {
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            width: 100%;
+            max-width: 300px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Geographic Conservation and Management Ideas</h1>
+        <p>Learn about the best conservation strategies for the geography of West Bengal's cities</p>
+    </header>
+
+    <main>
+        <div class="location-select">
+            <label for="location">Select a Location:</label>
+            <select id="location" onchange="showLocationInfo()">
+                <option value="">-- Choose a location --</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Asansol">Asansol</option>
+                <option value="Siliguri">Siliguri</option>
+                <option value="Berhampore">Berhampore</option>
+                <option value="Durgapur">Durgapur</option>
+                <option value="Raiganj">Raiganj</option>
+                <option value="Malda">Malda</option>
+                <option value="Bardhaman">Bardhaman</option>
+                <option value="Haldia">Haldia</option>
+                <option value="Darjeeling">Darjeeling</option>
+                <option value="Howrah">Howrah</option>
+                <option value="Kharagpur">Kharagpur</option>
+                <option value="Midnapore">Midnapore</option>
+                <option value="Nabadwip">Nabadwip</option>
+                <option value="Dankuni">Dankuni</option>
+                <option value="Jalpaiguri">Jalpaiguri</option>
+                <option value="Balurghat">Balurghat</option>
+                <option value="Santipur">Santipur</option>
+                <option value="Murshidabad">Murshidabad</option>
+                <option value="Bolpur">Bolpur</option>
+                <option value="North Barrackpur">North Barrackpur</option>
+                <option value="Purba Bardhaman">Purba Bardhaman</option>
+                <option value="Purulia">Purulia</option>
+                <option value="Bankura">Bankura</option>
+            </select>
+        </div>
+
+        <div id="location-info" class="location-info">
+            <h2 id="location-title">Location Details</h2>
+            <p id="location-description">Select a location to view conservation ideas based on its geography.</p>
+        </div>
+    </main>
+
+    <script>
+        const locationData = {
+            "Kolkata": {
+                title: "Kolkata",
+                description: "Kolkata, the capital city of West Bengal, is known for its rich cultural heritage and urban sprawl. Conservation efforts here should focus on sustainable urban development, waste management, and green spaces. Protecting the Hooghly river from pollution is crucial, alongside urban greening initiatives like rooftop gardens and community parks."
+            },
+            "Asansol": {
+                title: "Asansol",
+                description: "Asansol is a prominent industrial city. To maintain a balance between industry and ecology, it is essential to focus on air quality control, water conservation, and rehabilitation of mining areas. Green buffers around industrial zones and the promotion of renewable energy can improve environmental conditions."
+            },
+            "Siliguri": {
+                title: "Siliguri",
+                description: "Located near the foothills of the Himalayas, Siliguri is a gateway to North Bengal. Conservation efforts should include preservation of the Teesta River, promoting forest conservation in the surrounding Darjeeling hills, and ensuring sustainable tourism practices to protect biodiversity."
+            },
+            "Berhampore": {
+                title: "Berhampore",
+                description: "As a historical city, Berhampore’s conservation should include preserving its heritage sites. Focus on controlling river erosion along the Bhagirathi River, enhancing solid waste management, and promoting afforestation programs in urban areas."
+            },
+            "Durgapur": {
+                title: "Durgapur",
+                description: "Durgapur is an industrial city with major steel plants. Sustainable industrial practices should be implemented here, including reducing emissions and improving waste treatment. Additionally, reforesting the areas around the industrial zones will help improve air quality and biodiversity."
+            },
+            // Add more locations as per your list following the above pattern
+        };
+
+        function showLocationInfo() {
+            const location = document.getElementById("location").value;
+            const infoContainer = document.getElementById("location-info");
+
+            if (location && locationData[location]) {
+                const data = locationData[location];
+                document.getElementById("location-title").innerText = data.title;
+                document.getElementById("location-description").innerText = data.description;
+                infoContainer.style.display = "block";
+            } else {
+                infoContainer.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
     });
   </script>
 </body>
