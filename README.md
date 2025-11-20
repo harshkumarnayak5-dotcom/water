@@ -1,7 +1,6 @@
 # water
 Hi
 Ideas about Water Conservation and Management
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -147,6 +146,5 @@ footer {
 </footer>
 
 </body>
-</html>
 
            
