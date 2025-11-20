@@ -145,12 +145,11 @@ HI! WELCOME
   <h1>About Us</h1>
   <p>We are passionate designers and environmental enthusiasts who love blending the serenity of water with sustainable practices. Our goal is to inspire responsible water use and create immersive, refreshing digital experiences.</p>
 </section>
-<div style="margin-top: 30px; background: rgba(0, 150, 255, 0.25); padding: 20px; border-radius: 15px; width: 320px; text-align: left;">
+style="margin-top: 30px; background: rgba(0, 150, 255, 0.25); padding: 20px; border-radius: 15px; width: 320px; text-align: left;">
   <h3 style="color: #a0e7ff;">Profile Information</h3>
   <p><strong>Name:</strong> Harsh Kumar Nayak</p>
   <p><strong>Profession:</strong> Student</p>
   <p><strong>Location:</strong> Durgapur</p>
-</div>
 
 <!-- Footer -->
 <footer>
