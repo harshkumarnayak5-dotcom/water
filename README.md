@@ -6,87 +6,90 @@ Ideas about Water Conservation and Management
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cool Blue Template</title>
+<title>Water Conservation & Management</title>
 
 <style>
-/* --- GLOBAL STYLES --- */
+/* ----- GLOBAL PAGE STYLES ----- */
 body {
     margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #0d47a1, #1976d2, #42a5f5);
-    background-size: 300% 300%;
-    animation: gradientMove 12s infinite alternate;
-    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    background: #e3f2fd;
+    color: #034f84;
 }
 
-@keyframes gradientMove {
-    0% { background-position: left; }
-    100% { background-position: right; }
-}
-
+/* ----- HEADER ----- */
 header {
+    background: linear-gradient(to bottom, #0288d1, #03a9f4);
+    padding: 70px 20px;
     text-align: center;
-    padding: 60px 20px;
-    background: rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(4px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    position: relative;
+}
+
+/* Waves animation */
+header::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background: url('https://i.imgur.com/3x2HTLV.png'); 
+    background-size: cover;
+    animation: wave 6s infinite linear;
+    opacity: 0.5;
+}
+
+@keyframes wave {
+    0% { background-position-x: 0; }
+    100% { background-position-x: 1000px; }
 }
 
 header h1 {
     font-size: 3rem;
     margin: 0;
-    text-transform: uppercase;
-    letter-spacing: 3px;
 }
 
 header p {
     font-size: 1.2rem;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
-.container {
-    max-width: 900px;
+/* ----- CONTENT BOXES ----- */
+.section {
+    max-width: 950px;
     margin: 40px auto;
-    padding: 25px;
-    background: rgba(255, 255, 255, 0.12);
-    border-radius: 12px;
-    backdrop-filter: blur(6px);
-    box-shadow: 0 0 20px rgba(0,0,0,0.25);
+    background: white;
+    padding: 30px;
+    border-radius: 14px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
 }
 
-h2 {
+.section h2 {
     margin-top: 0;
     font-size: 2rem;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.4);
-    padding-bottom: 10px;
+    border-left: 6px solid #0288d1;
+    padding-left: 15px;
+    color: #01579b;
 }
 
-/* --- BUTTON STYLE --- */
-.button {
-    display: inline-block;
-    padding: 12px 25px;
-    background: #0d47a1;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 8px;
-    transition: 0.3s;
-    font-weight: bold;
+.section ul {
+    line-height: 1.8;
+    font-size: 1.1rem;
 }
 
-.button:hover {
-    background: #42a5f5;
-    transform: scale(1.05);
+.section ul li {
+    margin-bottom: 12px;
 }
 
-/* --- FOOTER --- */
+/* ----- FOOTER ----- */
 footer {
     text-align: center;
+    margin-top: 50px;
     padding: 20px;
-    margin-top: 40px;
-    background: rgba(0, 0, 0, 0.25);
-    border-top: 1px solid rgba(255,255,255,0.3);
-    font-size: 0.9rem;
-    opacity: 0.8;
+    background: #0288d1;
+    color: white;
+    font-size: 0.95rem;
 }
 </style>
 </head>
@@ -94,28 +97,56 @@ footer {
 <body>
 
 <header>
-    <h1>Cool Blue Website</h1>
-    <p>A clean, modern, futuristic blue-themed web template</p>
+    <h1>Water Conservation & Management</h1>
+    <p>Primitive techniques + New innovative ideas to save our blue planet</p>
 </header>
 
-<div class="container">
-    <h2>Welcome to the Website</h2>
-    <p>
-        This is a clean and stylish blue template suitable for portfolios,
-        information websites, school projects, technology pages, landing pages,
-        and more.  
-        <br><br>
-        You may customize it easily by changing the text, colors, or sections.
-    </p>
+<div class="section">
+    <h2>💧 Primitive & Traditional Water Conservation Techniques</h2>
+    <ul>
+        <li><b>Stepwells (Baolis & Vavs)</b> – Ancient underground structures that collect rainwater and maintain cool temperatures.</li>
+        <li><b>Tanks & Ponds</b> – Community-managed tanks for storing monsoon runoff for year-round use.</li>
+        <li><b>Earthen Check Dams</b> – Small dams built from mud or stone to slow water flow and increase soil moisture.</li>
+        <li><b>Bamboo Drip Irrigation</b> – Traditional technique from Northeast India using bamboo pipes for slow and efficient irrigation.</li>
+        <li><b>Johads (Rajasthan)</b> – Crescent-shaped earthen embankments that restore groundwater levels.</li>
+        <li><b>Kul System (Himalayas)</b> – Mountain channels divert glacial meltwater for agriculture.</li>
+        <li><b>Ahar-Pyne (Bihar)</b> – Ancient floodwater harvesting system for dry-season irrigation.</li>
+        <li><b>Roof Pot Storage</b> – Collecting rainwater from roofs into clay pots buried in the ground.</li>
+    </ul>
+</div>
 
-    <a href="#" class="button">Learn More</a>
+<div class="section">
+    <h2>💡 New & Innovative Ideas for Modern Water Conservation</h2>
+    <ul>
+        <li><b>AI-Based Water Management</b> – Smart sensors and AI algorithms predict water demand, leakage, and supply optimization.</li>
+        <li><b>Atmospheric Water Generators</b> – Devices that extract pure drinking water directly from air humidity.</li>
+        <li><b>Smart Irrigation Systems</b> – IoT sensors measure soil moisture and automate watering to reduce agricultural water use by 50%.</li>
+        <li><b>Urban Rainwater Harvesting Networks</b> – Buildings connected by pipelines to community rainwater reservoirs.</li>
+        <li><b>Fog Nets</b> – Large mesh nets in coastal or mountain areas collecting water droplets from fog.</li>
+        <li><b>Permeable Pavements</b> – Roads and pathways that absorb rainwater and recharge groundwater.</li>
+        <li><b>Greywater Recycling Systems</b> – Filtering water from sinks/showers for use in gardening and flushing.</li>
+        <li><b>Floating Solar Farms</b> – Solar panels on water bodies reduce evaporation and generate power simultaneously.</li>
+        <li><b>Drone Mapping of Water Bodies</b> – Drones monitor encroachment, pollution, and water volume changes.</li>
+        <li><b>Hydrogel Agriculture</b> – Water-absorbing gels that release water slowly to plants in dry climates.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>🌍 Integrated Water Management Strategy</h2>
+    <ul>
+        <li><b>Watershed-Based Planning</b> – Managing entire river basins instead of individual villages.</li>
+        <li><b>River Rejuvenation Models</b> – Restoring wetlands, floodplains, and natural drainage channels.</li>
+        <li><b>Community-Based Water Governance</b> – Involving local people in monitoring and maintaining water sources.</li>
+        <li><b>Sustainable Urban Drainage Systems (SUDS)</b> – Swales, bioswales, rain gardens, and retention ponds in cities.</li>
+        <li><b>Climate-Resilient Water Systems</b> – Designing water infrastructure to withstand floods and droughts.</li>
+    </ul>
 </div>
 
 <footer>
-    &copy; 2025 Blue Template | Designed by You
+    © 2025 Water Conservation Template | Designed by You
 </footer>
 
 </body>
-</html
+</html>
 
            
