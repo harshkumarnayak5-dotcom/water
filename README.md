@@ -1,5 +1,3 @@
- HI! WELCOME
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -628,6 +626,32 @@
     </p>
 </div>
 
+<!-- Rajpur Sonarpur -->
+<div class="card" data-name="Rajpur Sonarpur wetland conservation east kolkata wetlands sewage treatment water storage">
+    <h3>Rajpur Sonarpur</h3>
+    <p><strong>Best Idea:</strong> Wetland Conservation & Sewage Reuse (EKW Model)</p>
+    <p><strong>Definition:</strong> Using natural wetlands to treat wastewater and store freshwater.</p>
+    <p><strong>How to Implement:</strong>
+        Rajpur Sonarpur lies near the extended belt of the East Kolkata Wetlands.  
+        The area can adopt the same ecological model:  
+        redirect municipal wastewater → filter through wetlands → reuse for irrigation and fishery.  
+        This prevents flooding, improves groundwater recharge, and preserves biodiversity.
+    </p>
+</div>
+
+<!-- Kalyani -->
+<div class="card" data-name="Kalyani planned city water recycling smart meters stormwater management">
+    <h3>Kalyani</h3>
+    <p><strong>Best Idea:</strong> Smart Water Recycling & Stormwater Management</p>
+    <p><strong>Definition:</strong> Reusing treated water and managing rainwater with planned city drainage.</p>
+    <p><strong>How to Implement:</strong>
+        As a planned township, Kalyani can integrate smart meters, decentralized treatment plants,  
+        and permeable pavements into residential blocks.  
+        Recycle greywater for gardens, flush-water, and public green zones.  
+        Use its grid layout to build stormwater recharge pits across parks and roadside drains.
+    </p>
+</div>
+
 
   </div>
 </section>
@@ -639,7 +663,7 @@
   <!-- Profile Block -->
   <div style="margin-top: 30px; background: rgba(0, 150, 255, 0.25); padding: 20px; border-radius: 15px; width: 320px; text-align: left;">
     <h3 style="color: #a0e7ff;">Profile Information</h3>
-    <p><strong>Name:</strong> Harsh Kumar Nayak</p>
+    <p><strong>Name:</strong> Harsh Kumar Nayak , Hrishabh Sharma , Shivam Routh , Angshuman Biswas</p>
     <p><strong>Profession:</strong> Student</p>
     <p><strong>Location:</strong> Durgapur</p>
   </div>
@@ -664,9 +688,6 @@ document.getElementById("searchBar").addEventListener("keyup", function () {
     });
 });
 </script>
-
-</body>
-</html>
 
 </body>
 </html>
