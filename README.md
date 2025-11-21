@@ -231,6 +231,15 @@
     <h1>Location-Based Water Conservation Ideas</h1>
     <p>Search your city to find useful water conservation practices suited for your region.</p>
 
+<section id="locations">
+  <h1>Water Management Ideas by Location</h1>
+
+  <input type="text" id="searchInput" placeholder="Search by town or idea..." style="width: 100%; padding: 10px; margin-bottom: 20px; font-size: 16px;">
+
+  <div id="cardsContainer">
+    <!-- Your location cards go here -->
+  </div>
+</section>
 
     <div class="card-container" id="locationCards">
 
@@ -766,29 +775,33 @@
 
 </section>
 
+<script>
+  const searchInput = document.getElementById('searchInput');
+  const cardsContainer = document.getElementById('cardsContainer');
+  const cards = cardsContainer.getElementsByClassName('card');
+
+  searchInput.addEventListener('input', function() {
+    const filter = searchInput.value.toLowerCase().trim(); // convert input to lowercase
+
+    for (let i = 0; i < cards.length; i++) {
+      const card = cards[i];
+      const townName = card.querySelector('h3').innerText.toLowerCase();
+      const bestIdea = card.querySelector('p strong').innerText.toLowerCase();
+      const definition = card.querySelectorAll('p')[1].innerText.toLowerCase();
+
+      if (townName.includes(filter) || bestIdea.includes(filter) || definition.includes(filter)) {
+        card.style.display = ''; // show card
+      } else {
+        card.style.display = 'none'; // hide card
+      }
+    }
+  });
+</script>
 
 <!-- Footer -->
 <footer>
   &copy; 2025 BlueWave. All rights reserved.
 </footer>
-
-<script>
-// Search Filter for Location Cards
-document.getElementById("searchBar").addEventListener("input", function () {
-    let searchValue = this.value.toLowerCase(); // convert search text to lowercase
-    let cards = document.querySelectorAll("#locationCards .card");
-
-    cards.forEach(card => {
-        let content = card.innerText.toLowerCase(); // card text content
-        if (content.includes(searchValue)) {
-            card.style.display = "block"; // show card
-        } else {
-            card.style.display = "none"; // hide card
-        }
-    });
-});
-  
-</script>
 
 </body>
 </html>
