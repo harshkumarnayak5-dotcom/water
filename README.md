@@ -65,67 +65,165 @@
   <!-- Primitive Ideas -->
   <h2>Primitive Ideas</h2>
   <div class="card-container">
+
     <div class="card">
-      <h3>Rainwater Harvesting</h3>
-      <p><strong>Definition:</strong> Collecting and storing rainwater in tanks, barrels, or ponds.</p>
-      <p><strong>Usage:</strong> Provides water for irrigation, cleaning, and household use in areas without advanced water supply systems.</p>
+      <h3>1. Traditional Rain Ponds</h3>
+      <p><strong>What It Is:</strong> Man-made open ponds designed to collect natural rainwater.</p>
+      <p><strong>How It’s Done:</strong> Digging shallow depressions in the ground to store seasonal water.</p>
+      <p><strong>Used Mostly:</strong> Rural villages and agricultural regions.</p>
+      <p><strong>What It Does:</strong> Provides water for livestock, irrigation, and community use.</p>
     </div>
+
     <div class="card">
-      <h3>Clay Pot Storage</h3>
-      <p><strong>Definition:</strong> Using porous clay pots to naturally cool and store water.</p>
-      <p><strong>Usage:</strong> Preserves water quality and reduces evaporation, especially in rural households.</p>
+      <h3>2. Clay Pot Irrigation (Olla Irrigation)</h3>
+      <p><strong>What It Is:</strong> Buried clay pots that release water slowly into soil.</p>
+      <p><strong>How It’s Done:</strong> Fill porous pots with water and bury them near plant roots.</p>
+      <p><strong>Used Mostly:</strong> Dry rural regions and small-scale farming.</p>
+      <p><strong>What It Does:</strong> Reduces water loss and ensures deep root hydration.</p>
     </div>
+
     <div class="card">
-      <h3>Canal Irrigation</h3>
-      <p><strong>Definition:</strong> Directing river water through canals to agricultural fields.</p>
-      <p><strong>Usage:</strong> Efficiently waters crops in rural areas and reduces dependency on rainfall.</p>
+      <h3>3. Step Wells</h3>
+      <p><strong>What It Is:</strong> Deep stone wells with steps leading to groundwater levels.</p>
+      <p><strong>How It’s Done:</strong> Multi-level construction to catch seasonal rain and store it underground.</p>
+      <p><strong>Used Mostly:</strong> Historically in Gujarat and Rajasthan.</p>
+      <p><strong>What It Does:</strong> Stores water year-round and reduces evaporation.</p>
     </div>
+
+    <div class="card">
+      <h3>4. Bamboo Drip Irrigation</h3>
+      <p><strong>What It Is:</strong> Ancient water-delivery system made from bamboo channels.</p>
+      <p><strong>How It’s Done:</strong> Cut bamboo pipes to carry water from streams to plantations.</p>
+      <p><strong>Used Mostly:</strong> Meghalaya and North-East India.</p>
+      <p><strong>What It Does:</strong> Delivers water drop by drop with almost zero waste.</p>
+    </div>
+
+    <div class="card">
+      <h3>5. Mulching With Leaves</h3>
+      <p><strong>What It Is:</strong> Covering soil with natural materials to preserve moisture.</p>
+      <p><strong>How It’s Done:</strong> Spread dried leaves or straw around crop bases.</p>
+      <p><strong>Used Mostly:</strong> Farms, home gardens, and orchards.</p>
+      <p><strong>What It Does:</strong> Reduces soil evaporation and increases water retention.</p>
+    </div>
+
+    <div class="card">
+      <h3>6. Community Wells</h3>
+      <p><strong>What It Is:</strong> Shared wells used collectively by villages.</p>
+      <p><strong>How It’s Done:</strong> Hand-dug and maintained jointly by local communities.</p>
+      <p><strong>Used Mostly:</strong> Rural and tribal communities.</p>
+      <p><strong>What It Does:</strong> Provides reliable groundwater for daily household needs.</p>
+    </div>
+
   </div>
 
   <!-- New & Innovative Ideas -->
   <h2>New & Innovative Ideas</h2>
   <div class="card-container">
+
     <div class="card">
-      <h3>Smart Water Meters</h3>
-      <p><strong>Definition:</strong> Digital devices that track water usage and detect leaks.</p>
-      <p><strong>Usage:</strong> Helps households and industries reduce wastage and monitor consumption efficiently.</p>
+      <h3>1. Smart Water Meters</h3>
+      <p><strong>What It Is:</strong> Digital meters that track real-time water consumption.</p>
+      <p><strong>How It’s Done:</strong> IoT sensors installed on pipes detect flow and leakage.</p>
+      <p><strong>Used Mostly:</strong> Smart cities and modern households.</p>
+      <p><strong>What It Does:</strong> Prevents waste by alerting users to abnormal usage.</p>
     </div>
+
     <div class="card">
-      <h3>Desalination</h3>
-      <p><strong>Definition:</strong> Removing salt and impurities from seawater to make it drinkable.</p>
-      <p><strong>Usage:</strong> Provides freshwater in coastal and arid regions with limited natural sources.</p>
+      <h3>2. Atmospheric Water Generators</h3>
+      <p><strong>What It Is:</strong> Machines that produce drinking water from air moisture.</p>
+      <p><strong>How It’s Done:</strong> Condensation technology extracts humidity from the air.</p>
+      <p><strong>Used Mostly:</strong> Drought-prone and coastal areas.</p>
+      <p><strong>What It Does:</strong> Generates clean water independently of ground sources.</p>
     </div>
+
     <div class="card">
-      <h3>Solar-Powered Purification</h3>
-      <p><strong>Definition:</strong> Using solar energy to purify contaminated water.</p>
-      <p><strong>Usage:</strong> Provides sustainable clean drinking water in remote and rural areas.</p>
+      <h3>3. Solar Desalination Units</h3>
+      <p><strong>What It Is:</strong> Solar-powered systems to convert seawater into fresh water.</p>
+      <p><strong>How It’s Done:</strong> Solar heat evaporates seawater and condenses pure water.</p>
+      <p><strong>Used Mostly:</strong> Coastal towns and islands.</p>
+      <p><strong>What It Does:</strong> Provides renewable, sustainable freshwater daily.</p>
     </div>
+
+    <div class="card">
+      <h3>4. AI-Based Irrigation Optimization</h3>
+      <p><strong>What It Is:</strong> Smart irrigation controlled by artificial intelligence.</p>
+      <p><strong>How It’s Done:</strong> Uses soil sensors, weather data, and patterns to adjust water flow.</p>
+      <p><strong>Used Mostly:</strong> High-tech farms and greenhouses.</p>
+      <p><strong>What It Does:</strong> Increases crop yield while reducing water usage by up to 40%.</p>
+    </div>
+
+    <div class="card">
+      <h3>5. Greywater Recycling Machines</h3>
+      <p><strong>What It Is:</strong> Devices that reuse water from sinks, showers, and laundry.</p>
+      <p><strong>How It’s Done:</strong> Filters and disinfects greywater for garden or toilet reuse.</p>
+      <p><strong>Used Mostly:</strong> Homes, hotels, and commercial buildings.</p>
+      <p><strong>What It Does:</strong> Cuts water consumption by reusing nearly 50% of household water.</p>
+    </div>
+
+    <div class="card">
+      <h3>6. Water-Saving Aerator Faucets</h3>
+      <p><strong>What It Is:</strong> Modern faucet attachments that reduce water flow.</p>
+      <p><strong>How It’s Done:</strong> Mixes air with water to maintain pressure but use less water.</p>
+      <p><strong>Used Mostly:</strong> Urban kitchens, hotels, commercial buildings.</p>
+      <p><strong>What It Does:</strong> Saves 30–50% water per tap without affecting usability.</p>
+    </div>
+
   </div>
 
-  <!-- Present Ideas -->
-  <h2>Present Ideas</h2>
+  <!-- Government-Supported Ideas -->
+  <h2>Government Supported Ideas</h2>
   <div class="card-container">
+
     <div class="card">
-      <h3>Water Recycling</h3>
-      <p><strong>Definition:</strong> Treating and reusing wastewater for non-drinking purposes.</p>
-      <p><strong>Usage:</strong> Conserves water for irrigation, industrial processes, and urban landscaping.</p>
+      <h3>1. Rainwater Harvesting Mandates</h3>
+      <p><strong>What It Is:</strong> Legal requirement to install rainwater harvesting systems.</p>
+      <p><strong>How It’s Done:</strong> Rooftop water → filters → storage tanks or recharge pits.</p>
+      <p><strong>Used Mostly:</strong> Residential and commercial buildings in major cities.</p>
+      <p><strong>What It Does:</strong> Reduces dependence on municipal water and recharges groundwater.</p>
     </div>
+
     <div class="card">
-      <h3>Rain Gardens & Permeable Pavements</h3>
-      <p><strong>Definition:</strong> Urban designs that absorb stormwater and reduce runoff.</p>
-      <p><strong>Usage:</strong> Helps manage flooding, recharge groundwater, and prevent pollution in cities.</p>
+      <h3>2. Groundwater Recharge Schemes</h3>
+      <p><strong>What It Is:</strong> Large-scale government recharge pit and borewell systems.</p>
+      <p><strong>How It’s Done:</strong> Constructing percolation tanks and recharge wells.</p>
+      <p><strong>Used Mostly:</strong> Drought-prone regions and agricultural districts.</p>
+      <p><strong>What It Does:</strong> Restores declining groundwater levels.</p>
     </div>
+
     <div class="card">
-      <h3>Community Awareness Campaigns</h3>
-      <p><strong>Definition:</strong> Educating the public about responsible water usage.</p>
-      <p><strong>Usage:</strong> Promotes conservation practices and community involvement in sustainable water management.</p>
+      <h3>3. Smart City Water Monitoring</h3>
+      <p><strong>What It Is:</strong> Technology-driven water distribution and monitoring.</p>
+      <p><strong>How It’s Done:</strong> Sensors installed across networks detect leakage and pressure issues.</p>
+      <p><strong>Used Mostly:</strong> Government-designated smart cities.</p>
+      <p><strong>What It Does:</strong> Reduces water loss and improves supply efficiency.</p>
     </div>
+
     <div class="card">
-      <h3>Greywater Reuse</h3>
-      <p><strong>Definition:</strong> Reusing lightly used water from sinks, showers, and laundry.</p>
-      <p><strong>Usage:</strong> Reduces freshwater demand and supplies water for irrigation or toilet flushing.</p>
+      <h3>4. Jal Jeevan Mission</h3>
+      <p><strong>What It Is:</strong> Government initiative to provide tap water to rural households.</p>
+      <p><strong>How It’s Done:</strong> Laying pipelines, building treatment plants and storage tanks.</p>
+      <p><strong>Used Mostly:</strong> Rural India.</p>
+      <p><strong>What It Does:</strong> Ensures access to clean drinking water and reduces waterborne diseases.</p>
     </div>
+
+    <div class="card">
+      <h3>5. Swachh Bharat Water Initiatives</h3>
+      <p><strong>What It Is:</strong> Programs promoting sanitation and water-efficient practices.</p>
+      <p><strong>How It’s Done:</strong> Building toilets, waste-water treatment plants.</p>
+      <p><strong>Used Mostly:</strong> Urban and rural sanitation projects.</p>
+      <p><strong>What It Does:</strong> Improves water quality and reduces contamination.</p>
+    </div>
+
+    <div class="card">
+      <h3>6. Subsidized Drip & Sprinkler Irrigation</h3>
+      <p><strong>What It Is:</strong> Government financial support for modern irrigation tools.</p>
+      <p><strong>How It’s Done:</strong> Providing subsidies to farmers for drip and sprinkler installation.</p>
+      <p><strong>Used Mostly:</strong> Agricultural farmlands across India.</p>
+      <p><strong>What It Does:</strong> Saves up to 60% of irrigation water while boosting crop growth.</p>
+    </div>
+
   </div>
+
 </section>
 
 <!-- Location Ideas Section -->
