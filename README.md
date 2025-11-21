@@ -231,8 +231,6 @@
     <h1>Location-Based Water Conservation Ideas</h1>
     <p>Search your city to find useful water conservation practices suited for your region.</p>
 
-    <!-- Search Bar -->
-    <input type="text" id="searchBar" placeholder="Search Location or Idea...">
 
     <div class="card-container" id="locationCards">
 
@@ -775,16 +773,21 @@
 </footer>
 
 <script>
-/* SEARCH FUNCTION */
-document.getElementById("searchBar").addEventListener("keyup", function () {
-    let filter = this.value.toLowerCase();
+// Search Filter for Location Cards
+document.getElementById("searchBar").addEventListener("input", function () {
+    let searchValue = this.value.toLowerCase(); // convert search text to lowercase
     let cards = document.querySelectorAll("#locationCards .card");
 
     cards.forEach(card => {
-        let text = card.getAttribute("data-name").toLowerCase();
-        card.style.display = text.includes(filter) ? "block" : "none";
+        let content = card.innerText.toLowerCase(); // card text content
+        if (content.includes(searchValue)) {
+            card.style.display = "block"; // show card
+        } else {
+            card.style.display = "none"; // hide card
+        }
     });
 });
+  
 </script>
 
 </body>
