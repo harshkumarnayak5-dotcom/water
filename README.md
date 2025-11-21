@@ -338,6 +338,155 @@
         Build large contour ponds and rooftop harvesting systems to supplement dry red-soil areas around Shantiniketan.
     </p>
 </div>
+<!-- Purulia -->
+<div class="card" data-name="Purulia drought management rooftop rainwater harvesting">
+    <h3>Purulia</h3>
+    <p><strong>Best Idea:</strong> Rooftop Rainwater Harvesting</p>
+    <p><strong>Definition:</strong> Collecting and storing rainwater from rooftops during monsoon.</p>
+    <p><strong>How to Implement:</strong>
+        Purulia’s dry climate makes storage crucial. Install rooftop gutters → mesh filter → storage tanks to ensure water availability in summer months.
+    </p>
+</div>
+
+<!-- Digha -->
+<div class="card" data-name="Digha desalination coastal water purification">
+    <h3>Digha</h3>
+    <p><strong>Best Idea:</strong> Small-Scale Solar Desalination</p>
+    <p><strong>Definition:</strong> Using sunlight to remove salt from seawater.</p>
+    <p><strong>How to Implement:</strong>
+        Coastal geography allows solar stills or community desalination units to supply fresh water for tourism and households.
+    </p>
+</div>
+
+<!-- Jhargram -->
+<div class="card" data-name="Jhargram forest watershed check dams">
+    <h3>Jhargram</h3>
+    <p><strong>Best Idea:</strong> Small Check Dams in Forest Streams</p>
+    <p><strong>Definition:</strong> Building small barriers to slow stream water and recharge the ground.</p>
+    <p><strong>How to Implement:</strong>
+        Undulating forest terrain is perfect for stone/boulder dams that preserve rainwater for wildlife and villages.
+    </p>
+</div>
+
+<!-- Kolaghat -->
+<div class="card" data-name="Kolaghat thermal power water recycling">
+    <h3>Kolaghat</h3>
+    <p><strong>Best Idea:</strong> Thermal Power Plant Water Recycling</p>
+    <p><strong>Definition:</strong> Reusing treated industrial water in cooling systems.</p>
+    <p><strong>How to Implement:</strong>
+        Kolaghat’s power plant can adopt circular filtration systems to reduce dependence on the Rupnarayan River.
+    </p>
+</div>
+
+<!-- Mayapur -->
+<div class="card" data-name="Mayapur riverbank filtration ganga">
+    <h3>Mayapur</h3>
+    <p><strong>Best Idea:</strong> Riverbank Filtration (RBF) along the Ganga</p>
+    <p><strong>Definition:</strong> Natural purification of river water through soil layers.</p>
+    <p><strong>How to Implement:</strong>
+        Build wells slightly away from Ganga banks—water naturally filters through sand and becomes potable.
+    </p>
+</div>
+
+<!-- Kishanganj -->
+<div class="card" data-name="Kishanganj rain-fed agriculture micro irrigation">
+    <h3>Kishanganj</h3>
+    <p><strong>Best Idea:</strong> Micro-Irrigation for Rain-Fed Agriculture</p>
+    <p><strong>Definition:</strong> Using drip lines to reduce dependence on irregular rainfall.</p>
+    <p><strong>How to Implement:</strong>
+        High rainfall but uneven distribution—install solar-powered drip systems to stabilize farm output.
+    </p>
+</div>
+
+<!-- Bankura -->
+<div class="card" data-name="Bankura drought pond rejuvenation">
+    <h3>Bankura</h3>
+    <p><strong>Best Idea:</strong> Pond Rejuvenation for Drought Areas</p>
+    <p><strong>Definition:</strong> Cleaning and deepening ponds to store monsoon water.</p>
+    <p><strong>How to Implement:</strong>
+        Bankura’s dry red soil region benefits from deepened tanks with silt removal and catchment channel development.
+    </p>
+</div>
+
+<!-- Cooch Behar -->
+<div class="card" data-name="Cooch Behar flood control embankment reinforcement">
+    <h3>Cooch Behar</h3>
+    <p><strong>Best Idea:</strong> Flood-Control Embankment Reinforcement</p>
+    <p><strong>Definition:</strong> Strengthening riverbanks to reduce monsoon flooding.</p>
+    <p><strong>How to Implement:</strong>
+        Use geo-bags, bamboo walls, and native grasses along Torsa and other rivers to minimize erosion.
+    </p>
+</div>
+
+<!-- Alipurduar -->
+<div class="card" data-name="Alipurduar forest spring protection">
+    <h3>Alipurduar</h3>
+    <p><strong>Best Idea:</strong> Forest Spring Protection</p>
+    <p><strong>Definition:</strong> Protecting natural water springs in forest reserves.</p>
+    <p><strong>How to Implement:</strong>
+        Construct spring boxes and reforest surrounding areas to maintain perennial water flow.
+    </p>
+</div>
+
+<!-- Krishnanagar -->
+<div class="card" data-name="Krishnanagar groundwater recharge">
+    <h3>Krishnanagar</h3>
+    <p><strong>Best Idea:</strong> Groundwater Recharge Pits</p>
+    <p><strong>Definition:</strong> Directing clean rainwater into the ground to refill aquifers.</p>
+    <p><strong>How to Implement:</strong>
+        Clayey soil needs gravel-filled recharge wells near homes, parks, and schools to increase water table levels.
+    </p>
+</div>
+
+<!-- Chandannagar -->
+<div class="card" data-name="Chandannagar heritage water channel restoration">
+    <h3>Chandannagar</h3>
+    <p><strong>Best Idea:</strong> Heritage Water Channel Restoration</p>
+    <p><strong>Definition:</strong> Reviving old French-era drainage and water systems.</p>
+    <p><strong>How to Implement:</strong>
+        Clean clogged canals and recreate filtration ponds to reduce pressure on Hooghly water.
+    </p>
+</div>
+
+<!-- Serampore -->
+<div class="card" data-name="Serampore stormwater recharge urban">
+    <h3>Serampore</h3>
+    <p><strong>Best Idea:</strong> Urban Stormwater Recharge</p>
+    <p><strong>Definition:</strong> Allowing rainwater to percolate into the ground instead of flowing away.</p>
+    <p><strong>How to Implement:</strong>
+        Create percolation pits along busy streets to prevent flooding and increase groundwater.
+    </p>
+</div>
+
+<!-- Barrackpore -->
+<div class="card" data-name="Barrackpore ghats water cleaning river management">
+    <h3>Barrackpore</h3>
+    <p><strong>Best Idea:</strong> Ghat Area Water Cleaning & River Management</p>
+    <p><strong>Definition:</strong> Preventing pollution at Hooghly River ghats.</p>
+    <p><strong>How to Implement:</strong>
+        Install floating trash barriers and treat wastewater before it reaches the ghats.
+    </p>
+</div>
+
+<!-- Bally -->
+<div class="card" data-name="Bally urban drainage rejuvenation">
+    <h3>Bally</h3>
+    <p><strong>Best Idea:</strong> Urban Drainage Rejuvenation</p>
+    <p><strong>Definition:</strong> Clearing and restoring city drainage for clean water flow.</p>
+    <p><strong>How to Implement:</strong>
+        Desilt drains, install trash traps, and construct small wetlands to purify outflow water.
+    </p>
+</div>
+
+<!-- Barasat -->
+<div class="card" data-name="Barasat groundwater recharge pond restoration">
+    <h3>Barasat</h3>
+    <p><strong>Best Idea:</strong> Groundwater Recharge Through Pond Restoration</p>
+    <p><strong>Definition:</strong> Reviving ponds to allow natural percolation.</p>
+    <p><strong>How to Implement:</strong>
+        Heavy urbanization has reduced green spaces—restore ponds, plant water-grass, and create feeder channels.
+    </p>
+</div>
 
 
   </div>
