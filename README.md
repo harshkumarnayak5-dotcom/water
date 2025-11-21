@@ -21,37 +21,6 @@
   h3 { margin-bottom: 10px; color: #fff; }
   p { font-size: 1.1rem; max-width: 900px; margin-bottom: 15px; line-height: 1.6; }
 
-/* Stylish Search Bar */
-#searchBar {
-  width: 80%;
-  max-width: 500px;
-  padding: 14px 22px;
-  font-size: 1.1rem;
-  color: #e6faff;
-
-  background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(10px);
-
-  border: 2px solid rgba(255, 255, 255, 0.25);
-  border-radius: 35px;
-
-  outline: none;
-  transition: 0.4s;
-  margin-bottom: 30px;
-}
-
-#searchBar::placeholder {
-  color: #d0f4ff;
-  letter-spacing: 1px;
-}
-
-#searchBar:focus {
-  background: rgba(255, 255, 255, 0.28);
-  border-color: #00eaff;
-  box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);
-}
-<input type="text" id="searchBar" placeholder="Search Location or Idea..." style="text-align:center;">
-
   /* Card Layout */
   .card-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px; }
   .card { background: rgba(0, 150, 255, 0.3); padding: 20px; border-radius: 15px; width: 300px; transition: transform 0.3s, box-shadow 0.3s; text-align: left; }
