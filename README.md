@@ -40,6 +40,33 @@
 </style>
 </head>
 <body>
+  
+  /* Welcome Box Styling */
+.welcome-box {
+    margin-top: 30px;
+    background: rgba(0, 150, 255, 0.25);
+    padding: 25px;
+    border-radius: 15px;
+    max-width: 700px;
+    animation: fadeIn 1.5s ease;
+}
+
+.welcome-title {
+    font-size: 2rem;
+    color: #a0e7ff;
+    margin-bottom: 10px;
+}
+
+.welcome-text {
+    font-size: 1.2rem;
+    color: #e6f9ff;
+}
+
+/* Smooth Fade-in Animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
 
 <!-- Navigation -->
 <nav>
@@ -51,6 +78,12 @@
 
 <!-- Home Section -->
 <section id="home">
+  <div class="welcome-box">
+    <h2 class="welcome-title">Hi There! 👋</h2>
+    <p class="welcome-text">
+        Welcome to BlueWave — your gateway to water innovation, conservation, and creative ideas.
+    </p>
+</div>
   <h1>Welcome to BlueWave</h1>
   <p>Greetings! Dive into the world of water, a vital resource that sustains life and inspires innovation.</p>
   <div class="quote">"Thousands have lived without love, not one without water." – W.H. Auden</div>
