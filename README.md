@@ -131,6 +131,65 @@
 </section>
 
 <!-- Location Ideas Section -->
+<section id="locations">
+    <h1>Location-Based Water Conservation Ideas</h1>
+    <p>Search your city to find useful water conservation practices suited for your region.</p>
+
+    <!-- Search Bar -->
+    <input type="text" id="searchBar" placeholder="Search Location or Idea...">
+
+    <div class="card-container" id="locationCards">
+
+        <!-- Kolkata -->
+        <div class="card" data-name="Kolkata rainwater recharge">
+            <h3>Kolkata</h3>
+            <p><strong>Best Idea:</strong> Urban Rainwater Recharge</p>
+            <p><strong>Definition:</strong> Capturing rooftop rainwater and directing it underground to replenish aquifers.</p>
+            <p><strong>How to Implement:</strong>  
+                Kolkata receives high rainfall and has soft alluvial soil. Install rooftop pipes → sand filter → recharge pit → perforated rings to refill groundwater.
+            </p>
+        </div>
+
+        <!-- Asansol -->
+        <div class="card" data-name="Asansol mining water recycling">
+            <h3>Asansol</h3>
+            <p><strong>Best Idea:</strong> Mining Water Recycling</p>
+            <p><strong>Definition:</strong> Treating and reusing water extracted from mining areas.</p>
+            <p><strong>How to Implement:</strong>  
+                Asansol has numerous mines. Set up settling tanks to remove coal dust, then use filtered water for industrial cooling and roadside irrigation.
+            </p>
+        </div>
+
+        <!-- Siliguri -->
+        <div class="card" data-name="Siliguri watershed conservation forest">
+            <h3>Siliguri</h3>
+            <p><strong>Best Idea:</strong> Hill Watershed Conservation</p>
+            <p><strong>Definition:</strong> Protecting streams and slopes to maintain continuous water flow.</p>
+            <p><strong>How to Implement:</strong>  
+                The Himalayan foothills region benefits from contour trenches, bamboo check-dams, and reforesting slopes to slow runoff and store water naturally.
+            </p>
+        </div>
+
+        <!-- Berhampore -->
+        <div class="card" data-name="Berhampore riverbank filtration">
+            <h3>Berhampore</h3>
+            <p><strong>Best Idea:</strong> Riverbank Filtration (RBF)</p>
+            <p><strong>Definition:</strong> Purifying river water naturally by passing it through sand, soil, and gravel layers.</p>
+            <p><strong>How to Implement:</strong>  
+                Near the Bhagirathi River, install wells a few meters inland. River water seeps underground, gets naturally filtered, then pumped as clean water.
+            </p>
+        </div>
+
+        <!-- Durgapur -->
+        <div class="card" data-name="Durgapur industrial reuse">
+            <h3>Durgapur</h3>
+            <p><strong>Best Idea:</strong> Industrial Greywater Reuse</p>
+            <p><strong>Definition:</strong> Treating and reusing lightly used industrial wastewater.</p>
+            <p><strong>How to Implement:</strong>  
+                Durgapur’s industrial zone can set up membrane filters to reuse water for cooling towers, reducing stress on the Damodar river supply.
+            </p>
+        </div>
+
 
   </div>
 </section>
@@ -154,6 +213,22 @@
 <footer>
   &copy; 2025 BlueWave. All rights reserved.
 </footer>
+
+<script>
+/* SEARCH FUNCTION */
+document.getElementById("searchBar").addEventListener("keyup", function () {
+    let filter = this.value.toLowerCase();
+    let cards = document.querySelectorAll("#locationCards .card");
+
+    cards.forEach(card => {
+        let text = card.getAttribute("data-name").toLowerCase();
+        card.style.display = text.includes(filter) ? "block" : "none";
+    });
+});
+</script>
+
+</body>
+</html>
 
 </body>
 </html>
