@@ -488,6 +488,146 @@
     </p>
 </div>
 
+<!-- Basirhat -->
+<div class="card" data-name="Basirhat coastal embankment repair rainwater harvesting">
+    <h3>Basirhat</h3>
+    <p><strong>Best Idea:</strong> Coastal Embankment Strengthening</p>
+    <p><strong>Definition:</strong> Reinforcing river/coastal embankments to prevent saline intrusion.</p>
+    <p><strong>How to Implement:</strong>
+        Strengthen embankments near the Ichamati and coastal belt using geo-bags, bamboo walls, and mangrove plantations to reduce flooding and salinity.
+    </p>
+</div>
+
+<!-- Bangaon -->
+<div class="card" data-name="Bangaon wetland conservation wastewater treatment">
+    <h3>Bangaon</h3>
+    <p><strong>Best Idea:</strong> Wetland Conservation & Natural Filtration</p>
+    <p><strong>Definition:</strong> Using natural wetlands to filter wastewater.</p>
+    <p><strong>How to Implement:</strong>
+        Restore surrounding wetlands to naturally treat local wastewater before it flows into Bangladesh-border rivers.
+    </p>
+</div>
+
+<!-- Ranaghat -->
+<div class="card" data-name="Ranaghat sewage treatment river clean-up">
+    <h3>Ranaghat</h3>
+    <p><strong>Best Idea:</strong> Sewage Treatment Before River Discharge</p>
+    <p><strong>Definition:</strong> Treating town wastewater before it reaches the Churni River.</p>
+    <p><strong>How to Implement:</strong>
+        Build decentralized treatment plants and redirect drains into bio-filters before releasing into the river.
+    </p>
+</div>
+
+<!-- Tamluk -->
+<div class="card" data-name="Tamluk rainwater harvesting agriculture canal linkage">
+    <h3>Tamluk</h3>
+    <p><strong>Best Idea:</strong> Rainwater Storage Through Canal Linkages</p>
+    <p><strong>Definition:</strong> Connecting ponds and canals to distribute monsoon water.</p>
+    <p><strong>How to Implement:</strong>
+        The Rupnarayan basin supports canal redistribution—build feeder channels to fill ponds and irrigate fields.
+    </p>
+</div>
+
+<!-- Kanthi -->
+<div class="card" data-name="Kanthi Contai coastal sand aquifer recharge">
+    <h3>Kanthi (Contai)</h3>
+    <p><strong>Best Idea:</strong> Coastal Aquifer Recharge</p>
+    <p><strong>Definition:</strong> Recharging underground freshwater to push back salinity.</p>
+    <p><strong>How to Implement:</strong>
+        Use infiltration ponds and filtered recharge wells to maintain freshwater levels near the coastal belt.
+    </p>
+</div>
+
+<!-- Arambagh -->
+<div class="card" data-name="Arambagh river revival floodplain recharge">
+    <h3>Arambagh</h3>
+    <p><strong>Best Idea:</strong> River Revival Through Floodplain Recharge</p>
+    <p><strong>Definition:</strong> Storing monsoon overflow to revive old channels.</p>
+    <p><strong>How to Implement:</strong>
+        Build check dams along the Dwarakeswar River to restore old distributaries and recharge groundwater.
+    </p>
+</div>
+
+<!-- Santiniketan -->
+<div class="card" data-name="Santiniketan red soil rainwater harvesting ponds">
+    <h3>Santiniketan</h3>
+    <p><strong>Best Idea:</strong> Red Soil Rainwater Storage Ponds</p>
+    <p><strong>Definition:</strong> Capturing monsoon runoff in low-retention soil areas.</p>
+    <p><strong>How to Implement:</strong>
+        Construct large contour ponds around Shantiniketan campus & villages to store water during dry seasons.
+    </p>
+</div>
+
+<!-- Rampurhat -->
+<div class="card" data-name="Rampurhat rock area check dams stone bunds">
+    <h3>Rampurhat</h3>
+    <p><strong>Best Idea:</strong> Check Dams in Rocky Terrain</p>
+    <p><strong>Definition:</strong> Using stone barriers across streams to collect water.</p>
+    <p><strong>How to Implement:</strong>
+        Rampurhat’s rocky Birbhum terrain supports stone bunds that slow runoff and recharge shallow aquifers.
+    </p>
+</div>
+
+<!-- Srirampur -->
+<div class="card" data-name="Srirampur river clean-up stormwater filtration">
+    <h3>Srirampur</h3>
+    <p><strong>Best Idea:</strong> Riverfront Wastewater Filtration</p>
+    <p><strong>Definition:</strong> Filtering stormwater before it reaches the Hooghly.</p>
+    <p><strong>How to Implement:</strong>
+        Install bio-swales, gravel beds, and mangrove patches along the riverfront to purify drainage water.
+    </p>
+</div>
+
+<!-- Uluberia -->
+<div class="card" data-name="Uluberia industrial wastewater recycling">
+    <h3>Uluberia</h3>
+    <p><strong>Best Idea:</strong> Industrial Wastewater Recycling</p>
+    <p><strong>Definition:</strong> Reusing treated water in industrial zones.</p>
+    <p><strong>How to Implement:</strong>
+        Set up a centralized treatment plant for Howrah’s industrial belt and reuse water for cooling & cleaning.
+    </p>
+</div>
+
+<!-- Habra -->
+<div class="card" data-name="Habra groundwater recharge ponds wetland conservation">
+    <h3>Habra</h3>
+    <p><strong>Best Idea:</strong> Groundwater Recharge Through Wetland Restoration</p>
+    <p><strong>Definition:</strong> Reviving wetlands to store water and recharge aquifers.</p>
+    <p><strong>How to Implement:</strong>
+        Reconnect wetlands with monsoon channels and deepen ponds to stabilize water levels in Habra’s suburbs.
+    </p>
+</div>
+
+<!-- Chittaranjan -->
+<div class="card" data-name="Chittaranjan industrial township water recycling">
+    <h3>Chittaranjan</h3>
+    <p><strong>Best Idea:</strong> Industrial Township Water Recycling</p>
+    <p><strong>Definition:</strong> Reusing clean wastewater in residential and industrial areas.</p>
+    <p><strong>How to Implement:</strong>
+        Integrate greywater systems in rail colony housing and use treated water in gardens & workshops.
+    </p>
+</div>
+
+<!-- Rishra -->
+<div class="card" data-name="Rishra riverbank cleaning textile waste treatment">
+    <h3>Rishra</h3>
+    <p><strong>Best Idea:</strong> Textile Wastewater Treatment</p>
+    <p><strong>Definition:</strong> Filtering dyes and chemicals before they mix with river water.</p>
+    <p><strong>How to Implement:</strong>
+        Install color-removal tanks and activated carbon filters in textile units before discharge.
+    </p>
+</div>
+
+<!-- Titagarh -->
+<div class="card" data-name="Titagarh river purification water hyacinth removal wastewater control">
+    <h3>Titagarh</h3>
+    <p><strong>Best Idea:</strong> River Purification & Hyacinth Removal</p>
+    <p><strong>Definition:</strong> Clearing water hyacinth and pollutants to restore river flow.</p>
+    <p><strong>How to Implement:</strong>
+        Use mechanical hyacinth harvesters and ensure wastewater is routed to treatment tanks before entering the Hooghly.
+    </p>
+</div>
+
 
   </div>
 </section>
