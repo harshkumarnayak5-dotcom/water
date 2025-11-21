@@ -189,6 +189,155 @@
                 Durgapur’s industrial zone can set up membrane filters to reuse water for cooling towers, reducing stress on the Damodar river supply.
             </p>
         </div>
+        <!-- Raniganj -->
+<div class="card" data-name="Raniganj mine water purification reuse">
+    <h3>Raniganj</h3>
+    <p><strong>Best Idea:</strong> Mine Water Purification & Reuse</p>
+    <p><strong>Definition:</strong> Treating water pumped out from coal mines for safe reuse.</p>
+    <p><strong>How to Implement:</strong>
+        Raniganj’s mining belt produces substantial seepage water. Use sedimentation tanks + aeration + sand filters to supply clean water to nearby towns.
+    </p>
+</div>
+
+<!-- Malda -->
+<div class="card" data-name="Malda flood plain rainwater harvesting">
+    <h3>Malda</h3>
+    <p><strong>Best Idea:</strong> Floodplain Rainwater Harvesting</p>
+    <p><strong>Definition:</strong> Storing excess monsoon water in ponds for year-long use.</p>
+    <p><strong>How to Implement:</strong>
+        Malda’s monsoon floods can be turned beneficial by deepening ponds, constructing embankments, and building community water reservoirs.
+    </p>
+</div>
+
+<!-- Bardhaman -->
+<div class="card" data-name="Bardhaman agricultural micro irrigation">
+    <h3>Bardhaman</h3>
+    <p><strong>Best Idea:</strong> Agricultural Micro-Irrigation</p>
+    <p><strong>Definition:</strong> Drip and sprinkler systems to reduce water usage.</p>
+    <p><strong>How to Implement:</strong>
+        Large paddy fields can adopt solar-powered drip networks to supply controlled water and reduce groundwater pressure.
+    </p>
+</div>
+
+<!-- Haldia -->
+<div class="card" data-name="Haldia industrial water recycling port city">
+    <h3>Haldia</h3>
+    <p><strong>Best Idea:</strong> Industrial Effluent Recycling</p>
+    <p><strong>Definition:</strong> Recycling usable water from industrial discharges.</p>
+    <p><strong>How to Implement:</strong>
+        Haldia’s petrochemical industries can adopt membrane bioreactors and reuse treated water for cooling and cleaning.
+    </p>
+</div>
+
+<!-- Darjeeling -->
+<div class="card" data-name="Darjeeling hill spring rejuvenation">
+    <h3>Darjeeling</h3>
+    <p><strong>Best Idea:</strong> Hill Spring Rejuvenation</p>
+    <p><strong>Definition:</strong> Restoring natural springs by repairing recharge zones.</p>
+    <p><strong>How to Implement:</strong>
+        Build contour trenches, bamboo dams, and plant deep-rooted Himalayan trees to revive drying springs.
+    </p>
+</div>
+
+<!-- Howrah -->
+<div class="card" data-name="Howrah urban wastewater treatment">
+    <h3>Howrah</h3>
+    <p><strong>Best Idea:</strong> Urban Wastewater Treatment</p>
+    <p><strong>Definition:</strong> Cleaning wastewater before it enters the Hooghly River.</p>
+    <p><strong>How to Implement:</strong>
+        Install decentralized treatment plants near drainage outlets to prevent direct discharge into the river.
+    </p>
+</div>
+
+<!-- Kharagpur -->
+<div class="card" data-name="Kharagpur canal modernization irrigation">
+    <h3>Kharagpur</h3>
+    <p><strong>Best Idea:</strong> Canal Modernization</p>
+    <p><strong>Definition:</strong> Improving canal systems to reduce leakage and evaporation.</p>
+    <p><strong>How to Implement:</strong>
+        Kharagpur’s canal network can be lined with concrete and equipped with gates for controlled irrigation flow.
+    </p>
+</div>
+
+<!-- Midnapore (Medinipur) -->
+<div class="card" data-name="Midnapore Medinipur check dams rainwater storage">
+    <h3>Midnapore (Medinipur)</h3>
+    <p><strong>Best Idea:</strong> Check Dam Construction</p>
+    <p><strong>Definition:</strong> Small barriers across streams to store water.</p>
+    <p><strong>How to Implement:</strong>
+        Undulating terrain near forests is ideal for stone-based check dams that store monsoon water and recharge groundwater.
+    </p>
+</div>
+
+<!-- Nabadwip -->
+<div class="card" data-name="Nabadwip river sediment management">
+    <h3>Nabadwip</h3>
+    <p><strong>Best Idea:</strong> River Sediment Management</p>
+    <p><strong>Definition:</strong> Removing sediment to improve river water flow and quality.</p>
+    <p><strong>How to Implement:</strong>
+        The Ganga’s shifting course near Nabadwip requires periodic desilting and riverbank stabilization.
+    </p>
+</div>
+
+<!-- Dankuni -->
+<div class="card" data-name="Dankuni stormwater harvesting urban">
+    <h3>Dankuni</h3>
+    <p><strong>Best Idea:</strong> Urban Stormwater Harvesting</p>
+    <p><strong>Definition:</strong> Collecting city runoff for reuse.</p>
+    <p><strong>How to Implement:</strong>
+        Surrounded by industries and highways, Dankuni can build roadside recharge wells and stormwater ponds.
+    </p>
+</div>
+
+<!-- Jalpaiguri -->
+<div class="card" data-name="Jalpaiguri watershed river embankments">
+    <h3>Jalpaiguri</h3>
+    <p><strong>Best Idea:</strong> Riverbank Strengthening & Watershed Care</p>
+    <p><strong>Definition:</strong> Protecting riverbanks against floods.</p>
+    <p><strong>How to Implement:</strong>
+        Construct coir-based embankments and plant native trees along the Teesta to reduce erosion.
+    </p>
+</div>
+
+<!-- Balurghat -->
+<div class="card" data-name="Balurghat groundwater revival ponds">
+    <h3>Balurghat</h3>
+    <p><strong>Best Idea:</strong> Groundwater Revival Through Pond Renovation</p>
+    <p><strong>Definition:</strong> Cleaning and deepening ponds to recharge aquifers.</p>
+    <p><strong>How to Implement:</strong>
+        Renovate old ponds and create drainage channels to collect rainwater.
+    </p>
+</div>
+
+<!-- Santipur -->
+<div class="card" data-name="Santipur textile industry water reuse">
+    <h3>Santipur</h3>
+    <p><strong>Best Idea:</strong> Textile Water Recycling</p>
+    <p><strong>Definition:</strong> Reusing water from dyeing and washing processes.</p>
+    <p><strong>How to Implement:</strong>
+        Install color-removal filters and reuse treated water in textile operations.
+    </p>
+</div>
+
+<!-- Murshidabad -->
+<div class="card" data-name="Murshidabad canal restoration jheel conservation">
+    <h3>Murshidabad</h3>
+    <p><strong>Best Idea:</strong> Canal & Jheel Restoration</p>
+    <p><strong>Definition:</strong> Restoring historic water channels.</p>
+    <p><strong>How to Implement:</strong>
+        Clear silted canals, reconnect jheels, and revive Nawab-era water structures.
+    </p>
+</div>
+
+<!-- Bolpur -->
+<div class="card" data-name="Bolpur Santiniketan red soil rainwater harvesting">
+    <h3>Bolpur</h3>
+    <p><strong>Best Idea:</strong> Red Soil Rainwater Harvesting</p>
+    <p><strong>Definition:</strong> Capturing rainwater in areas with poor water retention.</p>
+    <p><strong>How to Implement:</strong>
+        Build large contour ponds and rooftop harvesting systems to supplement dry red-soil areas around Shantiniketan.
+    </p>
+</div>
 
 
   </div>
