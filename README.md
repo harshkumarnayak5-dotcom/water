@@ -233,7 +233,7 @@
     <p>Search your city to find useful water conservation practices suited for your region.</p>
 
     <!-- Search Bar -->
-    <input type="text" id="searchBar" placeholder="Search Location or Idea...">
+    <input type="text" id="searchBar" placeholder="Search Location in West Bengal ...">
 
     <div class="card-container" id="locationCards">
 
