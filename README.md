@@ -400,6 +400,7 @@
         Coastal geography allows solar stills or community desalination units to supply fresh water for tourism and households.
     </p>
 </div>
+
 <!-- Andal -->
 <div class="card" data-name="Andal industrial water recycling port city">
     <h3>Andal</h3>
