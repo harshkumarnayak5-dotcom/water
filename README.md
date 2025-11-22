@@ -750,6 +750,26 @@
     </p>
 </div>
 
+<div class="card" data-name="Panagarh industrial rainwater harvesting recharge ponds">
+    <h3>Panagarh</h3>
+    <p><strong>Best Idea:</strong> Industrial Rainwater Harvesting & Recharge Ponds</p>
+    <p><strong>Definition:</strong> Capturing rainwater from industrial roofs and redirecting it into recharge structures.</p>
+    <p><strong>How to Implement:</strong> Panagarh’s industrial zone has large factory rooftops. Install rooftop gutters → filtration chamber → recharge pits or ponds. This helps refill groundwater and reduces dependency on external water sources.</p>
+</div>
+
+<div class="card" data-name="Dum Dum urban rainwater harvesting stormwater management">
+    <h3>Dum Dum</h3>
+    <p><strong>Best Idea:</strong> Urban Rainwater Harvesting & Stormwater Management</p>
+    <p><strong>Definition:</strong> Collecting rooftop rainwater and improving drainage to reduce urban flooding.</p>
+    <p><strong>How to Implement:</strong> Dense population and concrete surfaces in Dum Dum require decentralized recharge pits, rooftop harvesting in apartments, and bioswales near footpaths to reduce runoff and improve groundwater levels.</p>
+</div>
+
+<div class="card" data-name="Farakka barrage river management sediment control water purification">
+    <h3>Farakka</h3>
+    <p><strong>Best Idea:</strong> River Sediment Control & Source Water Protection</p>
+    <p><strong>Definition:</strong> Managing sediment and improving water quality around the Farakka Barrage region.</p>
+    <p><strong>How to Implement:</strong> Install upstream silt traps, strengthen embankments, and add vegetation buffers around the Ganga. Use community filtration units to treat river water before local use and reduce dependency on untreated sources.</p>
+</div>
 
   </div>
 </section>
