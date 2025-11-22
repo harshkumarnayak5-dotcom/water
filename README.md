@@ -842,7 +842,7 @@
   <!-- Profile Block -->
   <div style="margin-top: 30px; background: rgba(0, 150, 255, 0.25); padding: 20px; border-radius: 15px; width: 320px; text-align: left;">
     <h3 style="color: #a0e7ff;">Profile Information</h3>
-    <p><strong>Name:</strong> Harsh Kumar Nayak , Hrishabh Sharma , Shivam Routh , Angshuman Biswas</p>
+    <p><strong>Name:</strong> Harsh Kumar Nayak</p>
     <p><strong>Profession:</strong> Student</p>
     <p><strong>Location:</strong> Durgapur</p>
   </div>
