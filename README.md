@@ -51,7 +51,7 @@
 
 <!-- Home Section -->
 <section id="home">
-  <h1>Welcome to BlueWave</h1>
+  <h1>Welcome to AquaWise</h1>
   <p>Greetings! Dive into the world of water, a vital resource that sustains life and inspires innovation.</p>
   <div class="quote">"Thousands have lived without love, not one without water." – W.H. Auden</div>
   <div class="quote">"Water is the driving force of all nature." – Leonardo da Vinci</div>
