@@ -795,6 +795,36 @@
     <p><strong>How to Implement:</strong> Dense population and concrete surfaces in Dum Dum require decentralized recharge pits, rooftop harvesting in apartments, and bioswales near footpaths to reduce runoff and improve groundwater levels.</p>
 </div>
 
+<!-- Andal -->
+<div class="card" data-name="Andal industrial water recycling port city">
+    <h3>Andal</h3>
+    <p><strong>Best Idea:</strong> Mine Water Reuse</p>
+    <p><strong>Definition:</strong> Treating and reusing excess mine water for industrial and domestic supply.</p>
+    <p><strong>How to Implement:</strong>
+        Andal’s coal mining areas can install sedimentation and filtration units, supplying treated mine water to industries and nearby towns.
+    </p>
+</div>
+
+<!-- Adra -->
+<div class="card" data-name="Adra industrial water recycling port city">
+    <h3>Adra</h3>
+    <p><strong>Best Idea:</strong> Railway Terminal Water Recovery</p>
+    <p><strong>Definition:</strong> Recycling wash-water from locomotives and railway cleaning systems.</p>
+    <p><strong>How to Implement:</strong>
+        Adra’s railway hub can use oil-water separators and compact treatment units to reuse cleaning water for non-potable applications.
+    </p>
+</div>
+
+<!-- Bandel -->
+<div class="card" data-name="Bandel industrial water recycling port city">
+    <h3>Bandel</h3>
+    <p><strong>Best Idea:</strong> Thermal Power Plant Ash Water Recycling</p>
+    <p><strong>Definition:</strong> Treating ash-handling discharge for reuse within the power plant cycle.</p>
+    <p><strong>How to Implement:</strong>
+        Bandel’s power station can adopt high-rate clarifiers and reuse treated water in ash handling, cooling, and gardening.
+    </p>
+</div>
+
 <div class="card" data-name="Farakka barrage river management sediment control water purification">
     <h3>Farakka</h3>
     <p><strong>Best Idea:</strong> River Sediment Control & Source Water Protection</p>
